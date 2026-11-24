@@ -72,7 +72,6 @@ Bare-metal **I²C** driver for the **MSP432P401R** eUSCI_B0 module, talking to a
 - Pin muxing P1.6/P1.7 for SDA/SCL
 - Debugging serial buses with a logic analyzer
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
